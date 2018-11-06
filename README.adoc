@@ -1,0 +1,10 @@
+= RVC/Cryptode: managing your VPN connections
+
+RVC ("`Relaxed VPN Client`") is now officially called "`Cryptode`",
+and its repositories have been renamed.
+
+Please see https://github.com/riboseinc/cryptode and https://www.cryptode.com for the latest updates.
+
+Thank you for your support,
+
+- The https://open.ribose.com[Ribose Open team]
